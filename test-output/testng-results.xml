@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1000" started-at="2015-01-11T17:06:32Z" finished-at="2015-01-11T17:06:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1000" started-at="2015-01-11T17:06:32Z" finished-at="2015-01-11T17:06:33Z">
+      <class name="testcases.Feed4Test">
+        <test-method status="PASS" signature="testFeed(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Feed4Test@1f2a3a5]" name="testFeed" duration-ms="20" started-at="2015-01-11T22:36:33Z" data-provider="feeder" finished-at="2015-01-11T22:36:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginTest[unique]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFeed -->
+        <test-method status="PASS" signature="testFeed(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Feed4Test@1f2a3a5]" name="testFeed" duration-ms="0" started-at="2015-01-11T22:36:33Z" data-provider="feeder" finished-at="2015-01-11T22:36:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FindFriendTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFeed -->
+        <test-method status="PASS" signature="testFeed(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Feed4Test@1f2a3a5]" name="testFeed" duration-ms="0" started-at="2015-01-11T22:36:33Z" data-provider="feeder" finished-at="2015-01-11T22:36:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UploadPic]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFeed -->
+        <test-method status="PASS" signature="testFeed(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Feed4Test@1f2a3a5]" name="testFeed" duration-ms="0" started-at="2015-01-11T22:36:33Z" data-provider="feeder" finished-at="2015-01-11T22:36:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFeed -->
+        <test-method status="PASS" signature="testFeed(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Feed4Test@1f2a3a5]" name="testFeed" duration-ms="0" started-at="2015-01-11T22:36:33Z" data-provider="feeder" finished-at="2015-01-11T22:36:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFeed -->
+      </class> <!-- testcases.Feed4Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

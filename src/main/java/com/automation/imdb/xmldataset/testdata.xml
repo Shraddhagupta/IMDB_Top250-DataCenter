@@ -1,0 +1,15 @@
+<testcases>
+
+	<testcase id="SelfServicePortal_LogIn_UsingEntitlementID">
+		<scenario  enabled="true">		
+			<entitlement State="DEPLOYED" EntitlementId="Auto_Ent" TrustedActActionHeader="Action: Trusted Activation" FullfillmentCount="10" LicSummaryHeader="License Summary" CompositeValue="auto_testVal" AddHostHeader=" Add License Host -      FlexNet Operations End-User Portal:">		
+					<lineitem ActivationId="Auto_Trusted_Activation_" ActlicenseHeader="Trusted Activation" lineItemsDetailsWindowHeader="Line Item Details -   	 	FlexNet Operations End-User Portal:">
+					
+					</lineitem>		
+			</entitlement>					
+		</scenario>	
+	</testcase>
+	
+	 
+	
+</testcases>
